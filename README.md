@@ -39,9 +39,9 @@ Predict on a Single Image and Display the image.
 
 ## PROGRAM
 
-### Name:
+### Name: SIBHIRAAJ R
 
-### Register Number:
+### Register Number: 212224230268
 
 ```
 class CNNClassifier(nn.Module):
